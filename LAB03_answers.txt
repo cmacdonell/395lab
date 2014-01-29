@@ -15,3 +15,9 @@ Question 2:
 Answer:
 	A quick Google search turned up BitBucket.org as another alternative to
 	github's code repository.
+
+
+.gitconfig user info:
+[user]
+	name = James Yoo
+	email = yooj2@mymacewan.ca
