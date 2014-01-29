@@ -1,0 +1,8 @@
+Question 1: What are two reasons one might push code to a service like github?
+
+Git is good for backing up and restoring your own work so you can go back to a previous version at any time. It's also good for colaborating with others and sharing work.
+
+Question 2: What is another VCS tool? Find an online service that offers similar
+features to github that uses that tool.
+
+Apache Subversion (SVN)
