@@ -1,0 +1,10 @@
+[user]
+	name = Kari E. Bronson
+	email = bronsonk2@mymacewan.ca
+[core]
+	editor = emacs
+[color]
+	branch = auto
+	diff = auto
+	status = auto
+	ui = true
