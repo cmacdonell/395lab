@@ -1,0 +1,17 @@
+Question 1:
+	What are two reasons one might push code to a service like github?
+
+Answer:
+	Reason 1 - In order to maintain code redundancy, so if one were to lose
+	           their code due to whatever reasons (accdiental deletion,
+                   corruption, hardware failure, etc.), they are able to recover
+		   their work from the github repo.
+	Reason 2 - To share code efficiently among members of a group project.
+
+
+Question 2:
+	What is another VCS tool?
+
+Answer:
+	A quick Google search turned up BitBucket.org as another alternative to
+	github's code repository.
