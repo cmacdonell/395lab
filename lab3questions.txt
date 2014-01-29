@@ -1,0 +1,8 @@
+Claudine Gladue Lab 3 Assignment
+Question 1:
+One one might push code to a service like github is because it is an easy way to share large code sources with many people. I can just send a link to my code to someone to show them (or share so they can fork, or get shared to and fork…). 
+
+Another reason to use a service like github is it is a good space/place to store code, in case your system is compromised/crashes. 
+
+Question 2: 
+Another VCS tool is bitbucket (bitbucket.org).
