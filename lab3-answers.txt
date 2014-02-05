@@ -1,0 +1,25 @@
+/*------------------------|
+| name: Andrew Kind       |
+| github: Andrewkind      |
+| course: CMPT395         |
+| date: January 29, 2014  |
+| assignment: lab 3       |
+-------------------------*/
+
+Question 1
+
+Reason 1:
+
+In case a user makes mistakes in his new additions/modifications, he can go
+back in the repository to fetch a previous unbroken version of the code.
+
+Reason 2:
+Github allows for easy sharing between users in a project. Projects can be
+forked if necesary.
+
+
+Question 2
+Similar tool:
+
+Mercurial is a similar version control tool.
+http://mercurial.selenic.com/
