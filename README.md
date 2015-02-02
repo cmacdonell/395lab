@@ -1,4 +1,4 @@
 395lab
 ======
 
-A demonstration of forking for CMPUT 395
+A demonstration of forking for CMPT 395
